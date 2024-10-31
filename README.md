@@ -9,7 +9,7 @@ API для сайта микроблогов.
 1. Клонировать репозиторий и перейти в него в командной строке:
  
 ```
-git clone git@github.com:akchau/api_final_yatube. 
+git clone git@github.com:sofiiila/api_final_yatube.git
 
 ```
 
